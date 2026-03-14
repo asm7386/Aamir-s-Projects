@@ -150,6 +150,39 @@ The results helped determine which models produced the most accurate predictions
 - Matplotlib
 - Seaborn
 
+
+The notebook contains the full workflow including data preprocessing, analysis, model training, and evaluation.
+
 ---
 
-# Repository Structure
+# Key Skills Demonstrated
+
+This project demonstrates experience with:
+
+- Large dataset processing
+- Natural language processing
+- Sentiment analysis
+- Feature engineering
+- Machine learning model training
+- Data visualization
+- End-to-end ML pipeline development
+
+---
+
+# Future Improvements
+
+Potential improvements to this project include:
+
+- Implementing deep learning models for sentiment classification
+- Applying transformer-based NLP models
+- Deploying an interactive dashboard for analysis
+- Improving feature engineering for text data
+- Scaling analysis to larger datasets
+
+---
+
+# Author
+
+Aamir Mohammed  
+
+
